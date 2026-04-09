@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
     "outDir": "dist",
-    "module": "NodeNext",
+    "module": "ESNext",
     "target": "ES2021",
-    "moduleResolution": "NodeNext",
+    "moduleResolution": "Bundler",
     "types": ["node"],
     "lib": ["esnext"],
     "sourceMap": true,
